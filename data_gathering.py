@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 import datefinder
 import dateparser
-
+from dagster import asset # import the `dagster` library
 
 class SteamScrapper:
 
@@ -104,9 +104,8 @@ class SteamScrapper:
             sleep(300)
             self.crawl_data()
 
-
 if __name__ == '__main__':
-    file_path = 'D:/MSc Data Analytics/DAP_Project/dap/dap/data'
+    file_path = './data'
     ss = SteamScrapper(file_path)
     ss.get_game_ids()
     ss.crawl_data()
