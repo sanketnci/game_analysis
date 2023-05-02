@@ -14,7 +14,6 @@
 # Notes
 Members commited code to the develop branch while working to avoid future inconvenience
 Data branch has datasets
-Docs branch contains the ReadMe file
 
 # Tips
 If you have a local clone, you can update it by running the following commands.
