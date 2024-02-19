@@ -1,7 +1,5 @@
 # Group Members
-1. Zainab Mohamed - 22190082
-2. Sanket Sanjay - 22171746
-3. Deepak Singh - 22141855
+1. Sanket Patne
 
 # How to run the code
 1. Clone the repo
