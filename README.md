@@ -1,5 +1,3 @@
-# Group Members
-1. Sanket Patne
 
 # How to run the code
 1. Clone the repo
